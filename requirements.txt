@@ -1,0 +1,5 @@
+pocketsphinx
+webrtcvad
+#pyaudio instead apt install python3-pyaudio
+respeaker
+pyttsx3
